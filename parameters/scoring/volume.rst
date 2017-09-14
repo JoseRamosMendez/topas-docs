@@ -11,12 +11,12 @@ Quantity            Description
 DoseToMedium        sum of energy deposits divided by mass
 DoseToWater         from energy-dependent stopping power conversion (see below)
 DoseToMaterial      from energy-dependent stopping power conversion (see below)
-EnergyDeposit       sum of step lengths divided by volume
-Fluence             sum of step lengths times energy divided by volume
-EnergyFluence       counting method described below
+EnergyDeposit       
+Fluence             sum of step lengths divided by volume
+EnergyFluence       sum of step lengths times energy divided by volume
 Charge              counting method described below
 OpticalPhotonCount  counting optical photons
-EffectiveCharge
+EffectiveCharge     counting method described below
 StepCount
 ProtonLET           various methods described below
 ==================  =======================================
